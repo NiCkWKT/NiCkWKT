@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+This is Nick. I am currently a year 2 computer science student in CUHK.
+
+I am quite passionate about programming since I can build several interesting products myself. I am currenly working on some web development stuff. I learnt the basics about web programming myself such as HTML, CSS, Javascript. Then I switched to learning React since it is a very popular framework and I find it very useful in building front end stuff.
+
+I have created a recipe app using React. You can check out my repository.
 <!--
 **NiCkWKT/NiCkWKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
