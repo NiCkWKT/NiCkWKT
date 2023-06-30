@@ -4,7 +4,7 @@ My name is Nick and I'm a computer science student from Hong Kong. Here's some i
 
 ⚡ Work experience: <br>
 - **Programmer Intern at [Asiabots](https://www.asiabots.com)** - Backend development and DevOps. [Hong Kong. Summer 2023]
-- **Associate Software Engineer Intern at [Accenture](https://www.accenture.com/hk-en)** - Backend development on the API Integration team. [Hong Kong. Summer 2022]
+- **Software Engineer Intern at [Accenture](https://www.accenture.com/hk-en)** - Backend development on the API Integration team. [Hong Kong. Summer 2022]
 
 🌱 Interests:
 - Web development
